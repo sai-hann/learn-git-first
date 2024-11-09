@@ -1,1 +1,2 @@
 This is testing about fetch
+I love fred.
